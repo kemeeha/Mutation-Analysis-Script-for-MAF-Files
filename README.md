@@ -8,3 +8,5 @@ Downloads MAF files using a provided manifest file.
 Extracts and processes mutations for TP53 and STAT5A genes.
 
 Generates a mutation summary report.
+
+Clone the repository: https://github.com/kemeeha/Mutation-Analysis-Script-for-MAF-Files/blob/main/genome_data_cancer_sets.bash
